@@ -1,4 +1,0 @@
-StackOverflow Helpful links:
-
-How to list all files of a Python directory:
-http://stackoverflow.com/questions/3207219/how-to-list-all-files-of-a-directory-in-python
