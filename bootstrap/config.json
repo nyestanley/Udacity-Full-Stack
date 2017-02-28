@@ -386,6 +386,8 @@
     "grid.less",
     "modals.less"
   ],
-  "js": [],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=80f826e743aff76323e708fe598991b0"
+  "js": [
+    "modal.js"
+  ],
+  "customizerUrl": "http://getbootstrap.com/customize/?id=c63413751b1e6dfe7c22cb83ff5fe455"
 }
